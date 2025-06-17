@@ -1,5 +1,3 @@
-https://github.com/MikeBeloborodov/stellar-burger
-
 # Проектная работа "Stellar Burger"
 
 ## Оглавление
@@ -7,10 +5,6 @@ https://github.com/MikeBeloborodov/stellar-burger
 - [Запуск](#запуск)
 - [Сборка](#сборка)
 - [Описание](#описание)
-- [Скриншоты](#скриншоты)
-- [Автор](#автор)
-- [Благодарность](#благодарность)
-
 ## Запуск
 
 Для установки и запуска проекта необходимо выполнить команды
@@ -53,17 +47,3 @@ yarn build
 - src/services/store - папка со стором
 - src/hooks - папка с хуками
 
-## Скриншоты
-
-![](screenshot_1.jpg)
-![](screenshot_2.jpg)
-![](screenshot_3.jpg)
-
-## Автор
-
-- Github - [MikeBeloborodov](https://github.com/MikeBeloborodov)
-- Frontend Mentor - [@MikeBeloborodov](https://www.frontendmentor.io/profile/MikeBeloborodov)
-
-## Благодарность
-
-Благодарю команду Яндекс Практикум за предоставление дизайна и уроков!
