@@ -1,5 +1,3 @@
-https://github.com/MikeBeloborodov/stellar-burger
-
 # Проектная работа "Stellar Burger"
 
 ## Оглавление
@@ -59,11 +57,3 @@ yarn build
 ![](screenshot_2.jpg)
 ![](screenshot_3.jpg)
 
-## Автор
-
-- Github - [MikeBeloborodov](https://github.com/MikeBeloborodov)
-- Frontend Mentor - [@MikeBeloborodov](https://www.frontendmentor.io/profile/MikeBeloborodov)
-
-## Благодарность
-
-Благодарю команду Яндекс Практикум за предоставление дизайна и уроков!
